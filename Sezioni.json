@@ -1,0 +1,37 @@
+{
+  "channel_name": "Sezioni",
+  "fanart": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/Rayquaza_Wallpaper.jpg",
+  "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/TV.png",
+  "menu": [
+    {
+      "title": "Sky Intrattenimento",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/anni.json",
+      "thumbnail": "http://www.correttainformazione.it/wp-content/uploads/2019/06/Numero-verde-Sky.jpg"
+    },
+     {
+      "title": "Sky Cinema",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/anime.json",
+      "thumbnail": "http://www.correttainformazione.it/wp-content/uploads/2019/06/Numero-verde-Sky.jpg"
+    },
+    {
+      "title": "Sky Sport",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/tv.json",
+      "thumbnail": "http://www.correttainformazione.it/wp-content/uploads/2019/06/Numero-verde-Sky.jpg"
+    },
+    {
+      "title": "Primafila",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/tv.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/TV.png"
+    },
+    {
+      "title": "News",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/tv.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/TV.png"
+    },
+    {
+      "title": "Mediaset Premium",
+      "link": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/tv.json",
+      "thumbnail": "https://raw.githubusercontent.com/Rayquaza89/Rayquaza-Channel/master/TV.png"
+    }
+  ]
+}
